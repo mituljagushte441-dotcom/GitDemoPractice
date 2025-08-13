@@ -1,2 +1,4 @@
 # GitDemoPractice
-Git Commands practise
+Git Commands practice
+
+Author - Mitul Jagushte
